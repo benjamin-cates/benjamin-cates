@@ -6,9 +6,14 @@ A.S. Computer Science from College of the Sequoias
 
 Studying computer science at University of California, Irvine in the fall.  
 
+### Development Positions
+
+Research intern at [University of California San Diego Engineers For Exploration](https://github.com/UCSD-E4E) working on classifying bird calls to benefit the San Diego Zoo Wildlife Aliance. Used Pytorch and TweetyNet to train a machine learning model to classify bird calls based on species with a team of four people over summer 2023.\
+View the repository [here](https://github.com/UCSD-E4E/acoustic-multiclass-training)
+
 ### Projects
 
-Most of my experience is in C++ and JavaScript, however I have also done projects with TypeScript, React, and Python. 
+Most of my experience is in TypeScript, Python, and C++
 
 Special thanks to [Friday Night Lab](https://fnlhub.com) for giving me the space to do some of these.
 
