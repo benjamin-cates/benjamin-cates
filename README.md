@@ -5,6 +5,7 @@
 Most of my experience is in Rust, TypeScript, Python, and C++
 
 Some projects you can play with in the browser *right now*:
+- [AntLogic](https://ant-logic.thebenjicat.dev/) - logic gate education game build for IrvineHacks 2024
 - [Ball Blitz](https://benjamin-cates.github.io/ball_blitz) - an interactive ball matching game in 3d
 - [Interactive EM](https://benjamin-cates.github.io/Interactive-EM) - an educational interactive simulation of the electric field around charges
 - [Matrix Assistant](https://benjamin-cates.github.io/matrix_assistant) - a tool that guides you through matrix row reduction without making mistakes
@@ -12,7 +13,7 @@ Some projects you can play with in the browser *right now*:
     
 Special thanks to [Friday Night Lab](https://fnlhub.com) for giving me the space to do some of these.
 
-For other projects and pictures of the ones above, you can check out my [portfolio](https://benjamin-cates.github.io/portfolio/)!
+For other projects and pictures of the ones above, you can check out my [website](https://thebenjicat.dev)!
 
 ### Development Positions
 
