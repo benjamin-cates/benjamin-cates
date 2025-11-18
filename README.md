@@ -4,6 +4,7 @@
 
 Some projects you can play with in the browser *right now*:
 - [Picky Kitty](https://thebenjicat.itch.io/picky-kitty) - Satisfy a demanding cat in this cozy, grid-based puzzle game. Built for Cozy Fall Jam 2025.
+- [Rogue Snacks](https://thebenjicat.itch.io/rogue-snacks) - Fight endless waves of corrupt snack food. Built for ScoreSpace Jam #36.
 - [Cat Factory](https://catfactory.thebenjicat.dev) - Push boxes and buttons to get to safety.
 - [AntLogic](https://ant-logic.thebenjicat.dev/) - Solve cute logic gate puzzles to learn simple and complex boolean logic. Built at IrvineHacks 2024.
 - [Ball Blitz](https://benjamin-cates.github.io/ball_blitz) - Spawn sports spheres and merge in a 3D suika-like game.
