@@ -3,11 +3,12 @@
 ### Interactive Projects
 
 Some projects you can play with in the browser *right now*:
+- [Yarn Forge](https://benjamin-cates.github.io/yarn-forge) - Author and test crochet patterns in a feature-filled simulation engine.
+- [Ball Blitz](https://benjamin-cates.github.io/ball-blitz) - Spawn sports spheres and merge in a 3D suika-like game.
 - [Picky Kitty](https://thebenjicat.itch.io/picky-kitty) - Satisfy a demanding cat in this cozy, grid-based puzzle game. Built for Cozy Fall Jam 2025.
 - [Rogue Snacks](https://thebenjicat.itch.io/rogue-snacks) - Fight endless waves of corrupt snack food. Built for ScoreSpace Jam #36.
 - [Cat Factory](https://catfactory.thebenjicat.dev) - Push boxes and buttons to get to safety.
 - [AntLogic](https://ant-logic.thebenjicat.dev/) - Solve cute logic gate puzzles to learn simple and complex boolean logic. Built at IrvineHacks 2024.
-- [Ball Blitz](https://benjamin-cates.github.io/ball_blitz) - Spawn sports spheres and merge in a 3D suika-like game.
 - [Interactive EM](https://benjamin-cates.github.io/Interactive-EM) - Simulate complex electric fields with a 2D interactive tool. Built at Friday Night Lab with peers.
 - [Matrix Assistant](https://benjamin-cates.github.io/matrix_assistant) - Row reduce smoothly with an error-correcting training program.
 - [XprtCalc](https://benjamin-cates.github.io/XprtCalc) - Compute lambda calculus with a fully-featured calculator.
