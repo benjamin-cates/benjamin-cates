@@ -3,6 +3,7 @@
 ### Interactive Projects
 
 Some projects you can play with in the browser *right now*:
+- [Melody Prism](https://melodyprism.thebenjicat.dev) - Extract and visualize musical rhythms with a performant Demucs-powered processor.
 - [Yarn Forge](https://benjamin-cates.github.io/yarn-forge) - Author and test crochet patterns in a feature-filled simulation engine.
 - [Ball Blitz](https://benjamin-cates.github.io/ball-blitz) - Spawn sports spheres and merge in a 3D suika-like game.
 - [Picky Kitty](https://thebenjicat.itch.io/picky-kitty) - Satisfy a demanding cat in this cozy, grid-based puzzle game. Built for Cozy Fall Jam 2025.
